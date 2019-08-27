@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/gzc/Downloads/研二下+实习/程序员面试宝典/4.14.1.cpp
+iostream
+-
+string
+-
+stdlib.h
+-
+stdio.h
+-
+string.h
+-
+

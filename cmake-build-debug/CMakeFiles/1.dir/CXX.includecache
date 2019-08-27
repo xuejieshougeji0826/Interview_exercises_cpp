@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/gzc/Downloads/研二下+实习/程序员面试宝典/1.cpp
+iostream
+/Users/gzc/Downloads/研二下+实习/程序员面试宝典/iostream
+vector
+/Users/gzc/Downloads/研二下+实习/程序员面试宝典/vector
+map
+/Users/gzc/Downloads/研二下+实习/程序员面试宝典/map
+vector
+-
+iostream
+-
+algorithm
+-
+sstream
+-
+
